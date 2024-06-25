@@ -1,6 +1,6 @@
-# RAG and Crop Price Prediction
+# Farmergpt 
 
-This application integrates a Retrieval-Augmented Generation (RAG) system with a crop price prediction model using FastAPI.
+This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendationa and price prediction model using FastAPI.
 
 ## Setup
 
@@ -19,7 +19,7 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 
 6. Run the application:
     ```bash
-    uvicorn backend.app.main:app --reload
+    uvicorn main:app --reload
     ```
 
 7. Access the application by opening `http://localhost:8000` in your web browser.
@@ -29,9 +29,5 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 - Upload PDFs and process them.
 - Query a RAG model for information.
 - Predict crop prices based on historical data.
+- predict crop recommendation on historical data
 
-## Folder Structure
-
-- `/backend`: Contains the FastAPI application logic, models, and utilities.
-- `/frontend`: Contains the HTML, CSS, and JavaScript files for the frontend.
-- `/storage`: Holds datasets, models, and other static files.
