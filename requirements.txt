@@ -1,14 +1,10 @@
-pandas
-numpy
-scikit-learn
-tensorflow
-matplotlib
 fastapi
 uvicorn
-langchain_community
+langchain
 openai
 tiktoken
 chromadb
 pypdf
 sentence-transformers
 jinja2
+InstructorEmbedding
