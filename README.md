@@ -5,19 +5,18 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 ## Setup
 
 1. Clone the repository.
-2. Navigate to the `farmergpt` directory.
-3. Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
-4. Install the required dependencies:
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-5. Set up the `.env` file with your OpenAI API key.
+4. Set up the `.env` file with your OpenAI API key.
 
-6. Run the application:
+5. Run the application:
     ```bash
     uvicorn main:app --reload
     ```
