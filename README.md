@@ -1,37 +1,57 @@
-# RAG and Crop Price Prediction
+# FarmerGPT
 
-This application integrates a Retrieval-Augmented Generation (RAG) system with a crop price prediction model using FastAPI.
+This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendation and price prediction model for Sri Lanka using FastAPI.
+
+## Requirements
+- Python 3.11.7
 
 ## Setup
 
 1. Clone the repository.
-2. Navigate to the `my_rag_app` directory.
-3. Create a virtual environment and activate it:
+    ```bash
+    git clone https://github.com/yourusername/farmergpt.git
+    cd farmergpt
+    ```
+
+2. Create a virtual environment and activate it:
+
+    For Linux/macOS:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+    source venv/bin/activate
     ```
-4. Install the required dependencies:
+
+    For Windows:
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate
+    ```
+
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
-5. Set up the `.env` file with your OpenAI API key.
 
-6. Run the application:
+4. Set up the `.env` file with your OpenAI API key:
     ```bash
-    uvicorn backend.app.main:app --reload
+    OPENAI_API_KEY=your_openai_api_key
     ```
 
-7. Access the application by opening `http://localhost:8000` in your web browser.
+5. Run the application:
+    ```bash
+    uvicorn main:app --reload
+    ```
+
+6. Access the application by opening `http://localhost:8000` in your web browser.
 
 ## Features
 
 - Upload PDFs and process them.
 - Query a RAG model for information.
 - Predict crop prices based on historical data.
+- Predict crop recommendation based on historical data.
 
-## Folder Structure
 
-- `/backend`: Contains the FastAPI application logic, models, and utilities.
-- `/frontend`: Contains the HTML, CSS, and JavaScript files for the frontend.
-- `/storage`: Holds datasets, models, and other static files.
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
