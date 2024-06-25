@@ -2,9 +2,6 @@
 
 This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendation and price prediction model for Sri Lanka using FastAPI.
 
-## Requirements
-- Python 3.11.7
-
 ## Setup
 
 1. Clone the repository.
