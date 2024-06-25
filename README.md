@@ -1,4 +1,3 @@
-```plaintext
 # FarmerGPT
 
 This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendation and price prediction model for Sri Lanka using FastAPI.
@@ -56,5 +55,3 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
