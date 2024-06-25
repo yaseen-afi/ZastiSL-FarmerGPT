@@ -1,0 +1,44 @@
+Moringa (Drumstick Tree) Disease Management
+Overview
+Moringa, commonly known as the drumstick plant, generally shows resistance to diseases. However, climate change has increased its susceptibility, potentially reducing both the quantity and quality of yields. Among various diseases, fungal infections are the most damaging, leading to leaf shedding and loss of commercial value.
+
+1. Anthracnose Disease
+Causal Organism: Colletotrichum spp.
+Symptoms:
+Specific brown spots on leaves.
+Severe infection leads to leaf yellowing.
+Light pink and gray spots on infected stems.
+Favorable Conditions: 24°C – 28°C temperature with high relative humidity.
+Management:
+Prune and burn infected plant parts to prevent disease spread.
+Use recommended protective and systemic fungicides for anthracnose, adhering to the post-harvest interval of the fungicides.
+Light pink and gray spots on infected stems indicate anthracnose
+
+2. Powdery Mildew
+Causal Organism: Leveillula spp.
+Symptoms:
+White or light gray powdery mildew on the underside of leaves.
+Yellow spots on the upper surface of leaves.
+Leaves may roll upwards and shed frequently.
+Infected plants may lose vigor and become infertile.
+Severe infection can cause the plant to wither and die.
+Favorable Conditions: Cloudy weather, 25°C – 30°C, and high humidity.
+Management:
+Maintain field sanitation.
+Apply sulfur as a chemical control method.
+White or light gray powdery mildew on the underside of leaves is a sign of powdery mildew
+
+3. Drumstick Fungal Pod Rot
+Causal Organism: Curvularis hawaiiensis.
+Symptoms:
+Ovate or oblong patches with light brownish-red margins on green pods.
+Small spots may merge under unfavorable climatic conditions to form large brown patches.
+Pods may shrink, dry out, and eventually rot.
+Severe damage can occur when pods mature, leading to potential yield loss.
+Favorable Conditions: Presence of pests and unfavorable climatic conditions exacerbate the disease.
+Management:
+Identify whether it is a fungal infection or pest infestation.
+Maintain field sanitation; remove and destroy damaged pods.
+Use healthy planting material and seeds.
+During the rainy season or in severely affected areas, use fungicides like tebuconazole (250 g/l EW, 3.5 ml/l). Limit applications to 2-3 times per season due to potential resistance. Apply early in pod formation or flowering stage.
+Combine systemic fungicides with Mancozeb 75% WG (20g/10l), Propineb 70% WP (20g/10l), or Flucinam 500 g/l (10 ml/10l), applied every 7-10 days.

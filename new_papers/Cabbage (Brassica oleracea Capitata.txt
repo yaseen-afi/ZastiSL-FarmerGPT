@@ -1,0 +1,99 @@
+Cabbage (Brassica oleracea Capitata Group)
+Family: Brassicaceae
+Suitable for Cultivation: All agro-ecological regions
+
+Released Varieties:
+Green Coronet
+Climatic Requirements:
+Ideal Climate: Cool climates, particularly in the upcountry areas.
+Heat Tolerant Varieties: Suitable for dry zones.
+Soil Requirements:
+Soil Type: Well-drained loamy soil enriched with organic matter.
+Optimal pH Range: 6.0-6.5.
+Disease Concern: High incidence of club root disease in low pH or acidic soils.
+Seed Requirements:
+Quantity: 200-250 g/ha.
+Nursery Management:
+Bed Size: 1 x 3 m, raised to 15 cm height.
+Soil Mixture: Compost and topsoil in a 1:1 ratio, filled up to 5-8 cm.
+Seeding: Sow seeds in rows 10 cm apart and 1 cm deep. Cover with sterilized soil and mulch. Remove mulch post-germination.
+Land Preparation:
+Ploughing: Up to a depth of 40 cm.
+Soil Amendment: Add lime to acidic soils.
+Planting:
+Seedling Hardening: Harden seedlings for one week before planting.
+Irrigation: Water twice daily post-transplanting.
+Spacing:
+Recommended Spacing: 40 x 50 cm.
+Fertilizer Application:
+Application Time	Urea (kg/ha)	TSP (kg/ha)	MOP (kg/ha)
+Basal	110	270	75
+After 3 weeks	110	-	75
+After 6 weeks	110	-	75
+Organic Matter: 10 t/ha.
+Water Supply:
+Crucial Stage: Head development.
+Irrigation Frequency: Twice daily immediately after transplanting; once daily thereafter.
+Weed Control:
+Method: Intercultural operations before top dressing with fertilizer.
+Pest Management:
+Diamondback Moth (Plutella xylostella):
+
+Symptoms: Green larvae feeding on leaves, leaving papery epidermis. Severe infestations disrupt head formation.
+Cabbage Looper (Chrysodeixis eriosoma):
+
+Symptoms: Irregular holes in leaves, larval excrement at leaf bases.
+Tobacco Cutworm (Spodoptera litura):
+
+Symptoms: Leaf skeletonization and irregular holes.
+Black Cutworm (Agrotis spp):
+
+Symptoms: Round leaf holes, plants cut at base during emergence.
+Root Maggot (Delia spp):
+
+Symptoms: Wilting leaves, maggots visible on roots.
+Aphids:
+
+Symptoms: Sap sucking, leaf malformation, and contamination of edible parts.
+Slugs and Snails:
+
+Symptoms: Irregular holes on leaves, severe during high rainfall.
+Pest Management Techniques:
+General Practices:
+
+Proper nursery management.
+Regular field monitoring.
+Crop rotation and field sanitation.
+Avoid broad-spectrum pesticides to protect predators and parasitoids.
+Chemical Controls:
+
+Diamondback Moth: Emamectin benzoate, Etofenprox.
+Cabbage Looper: Spinosad, Chlorfluazuron.
+Tobacco Cutworm: Etofenprox, Chlorantraniliprole.
+Black Cutworm: Profenofos, Etofenprox.
+Root Maggot: Fipronil.
+Aphids: Thiamethoxam, Imidacloprid.
+Slugs and Snails: Metaldehyde.
+Disease Management:
+Club Root Disease:
+
+Control: Use disease-free materials, increase soil pH with lime, crop rotation.
+Cercospora Leaf Spot:
+
+Control: Field sanitation, fungicides like Mancozeb, Propineb.
+Black Rot:
+
+Control: Use healthy seeds, maintain drainage, and crop rotation.
+Head Rot:
+
+Control: Field sanitation, fungicides like Chlorothalonil.
+Cabbage Ring Spot:
+
+Control: Use healthy materials, field sanitation, Hexaconazole.
+Downy Mildew:
+
+Control: Field sanitation, weed control, fungicides like Mancozeb.
+Harvesting:
+Harvest Period: 90-110 days post-planting.
+Yield:
+Expected Yield: 40-45 t/ha.
