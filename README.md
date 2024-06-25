@@ -17,13 +17,13 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 
     For Linux/macOS:
     ```bash
-    python3.11 -m venv venv
+    python -m venv venv
     source venv/bin/activate
     ```
 
     For Windows:
     ```bash
-    python3.11 -m venv venv
+    python -m venv venv
     venv\Scripts\activate
     ```
 
