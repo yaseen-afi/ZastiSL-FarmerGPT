@@ -5,7 +5,7 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 ## Setup
 
 1. Clone the repository.
-2. Navigate to the `my_rag_app` directory.
+2. Navigate to the `farmergpt` directory.
 3. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
