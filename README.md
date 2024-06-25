@@ -1,6 +1,6 @@
 # Farmergpt 
 
-This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendationa and price prediction model using FastAPI.
+This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendation and price prediction model  for Sri Lanka using FastAPI.
 
 ## Setup
 
