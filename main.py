@@ -121,7 +121,7 @@ def get_data_for_district(district):
     humidity = filtered_df['humidity'].values[0]
     rainfall = filtered_df['rainfall'].values[0]
     ph = filtered_df['ph'].values[0]
-    input_data = np.array([[n, p, k, temperature, humidity, rainfall, ph]])
+    input_data = np.array([[n, p, k, temperature, humidity, ph , rainfall]])
     return input_data
 
 def get_top_3_labels(probs, mlb):
