@@ -1,6 +1,8 @@
 # FarmerGPT
 
-This application integrates a Retrieval-Augmented Generation (RAG) system with a crop recommendation and price prediction model for Sri Lanka using FastAPI.
+You can access the application using this URL: [FarmerGPT](http://34.70.241.75/).
+
+This application provides crop recommendations, price predictions, and a chatbot using Retrieval-Augmented Generation (RAG) architecture to provide tailored queries for farmers in Sri Lanka integrated using FastAPI.
 
 ## Setup
 
@@ -47,7 +49,7 @@ This application integrates a Retrieval-Augmented Generation (RAG) system with a
 - Query a RAG model for information.
 - Predict crop prices based on historical data.
 - Predict crop recommendation based on historical data.
-
+- Provides crop recommendations, price predictions, and a chatbot using RAG architecture to provide tailored queries for farmers in Sri Lanka.
 
 ## License
 
